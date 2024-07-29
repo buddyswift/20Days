@@ -93,7 +93,7 @@ client.once('ready', async () => {
     console.log('Bot is ready!');
 
     // Define the start date and time (10 PM UK time on July 29, 2024)
-    const startDate = new Date('2024-07-29T20:40:00Z'); // 10 PM UK time in UTC
+    const startDate = new Date('2024-07-29T21:02:00Z'); // 10 PM UK time in UTC
 
     // Schedule the countdown messages
     bosses.forEach((boss, index) => {
